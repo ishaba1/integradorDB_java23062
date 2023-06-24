@@ -12,7 +12,7 @@ CREATE TABLE purifikas_clientes_servi (
   PRIMARY KEY (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-describe purifikas_clientes_servi;
+-- describe purifikas_clientes_servi;
 show fields from purifikas_clientes_servi;
 -- drop table purifikas_clientes_servi;
 
